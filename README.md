@@ -20,6 +20,7 @@ Also the Reqeusts library needs to be installed.
 Currently the following reports are available:
 
   -Last Login: pulls all users' latest login date. N/A means user never logged in to LastPass
+  -Shared Folders: returns all the shared folders in the company
 
 # How to run reports
 
