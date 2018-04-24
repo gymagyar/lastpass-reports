@@ -1,5 +1,5 @@
 # Copyright: gymagyar
-# GNU General Public License v3.0+ (see LICENSING or https://www.gnu.org/licenses/gpl-3.0.txt)
+# GNU General Public License v3.0+ (see LICENSE or https://www.gnu.org/licenses/gpl-3.0.txt)
 import json
 import requests
 import sys
