@@ -4,7 +4,7 @@ This project is a set of Python scripts to pull reports from LastPass in CSV fro
 
 # Requirements
 
-Python 3 is requreired to run this report. You can find details here how to install it:
+Python 3 is requreired to run these reports. You can find details here how to install it:
 - on Windows: https://docs.python.org/3/using/windows.html
 - on Mac: https://docs.python.org/3/using/mac.html
 - on Unix: https://docs.python.org/3/using/unix.html
