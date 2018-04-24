@@ -19,7 +19,7 @@ Also the Reqeusts library needs to be installed.
 
 Currently the following reports are available:
 
--Last Login: pulls all users' latest login date. N/A means user never logged in to LastPass
+  -Last Login: pulls all users' latest login date. N/A means user never logged in to LastPass
 
 # How to run reports
 
