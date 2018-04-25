@@ -31,6 +31,10 @@ Currently the following reports are available:
     - output file name: the scripts display the queried data as well as save it to the specified csv file
 3) Run the script using Python 3
    
-   $python3 lastLogin.py your_cid your_provisioning_hash lastlogin.csv
+      $python3 lastLogin.py your_cid your_provisioning_hash lastlogin.csv
+   
+   Using LastPass CLI
+   
+      python3 sharedFolders.py 1234567 $(lpass show --notes provhash 2>&1) sharedfolder.csv
    
    
