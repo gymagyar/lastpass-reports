@@ -1,6 +1,6 @@
 # lastpass-reports
 
-This project is a set of Python scripts to pull reports from LastPass in CSV fromat using the Enteprise API. The scripts creates the report in CSV format, which can be improted to Excel for furhter processing.
+This project is a set of Python scripts to pull reports from LastPass in CSV fromat using the Enteprise API. Scripts create the reports in CSV format, which can be improted to Excel for furhter processing.
 
 # Requirements
 
